@@ -1,24 +1,24 @@
-﻿Região;Unidades da Federação;Unidade;Produto;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023
-Região Norte;Rondônia;(mil m3);Etanol anidro e hidratado;12,77;12,99;9,06;4,9;1,39;4,85;0,07; -   ; -   ; -   
-Região Norte;Acre;(mil m3);Etanol anidro e hidratado; -   ;4,51;3,67; -   ; -   ; -   ; -   ; -   ; -   ; -   
-Região Norte;Amazonas;(mil m3);Etanol anidro e hidratado;2,92;5,8;5,5;4,85;5,47;8,82;9,01;6,39;5,9;6,81
-Região Norte;Pará;(mil m3);Etanol anidro e hidratado;42,15;40,93;33,15;51,62;43,46;61,23;50,34;54,98;52,77;54,13
-Região Norte;Tocantins;(mil m3);Etanol anidro e hidratado;180,72;189,81;161,97;176,27;155,22;166,37;174,5;195,01;209,58;192,71
-Região Nordeste;Maranhão;(mil m3);Etanol anidro e hidratado;179,15;186,98;128;162,56;147,62;167,74;174,55;164,33;143,11;160,69
-Região Nordeste;Piauí;(mil m3);Etanol anidro e hidratado;32,51;32,68;21,61;20,4;37,48;46,46;38,61;44,14;45,03;47,16
-Região Nordeste;Ceará;(mil m3);Etanol anidro e hidratado;9,13;14,6;5,24; -   ; -   ; -   ; -   ; -   ; -   ; -   
-Região Nordeste;Rio Grande do Norte ;(mil m3);Etanol anidro e hidratado;73,24;98,26;75,15;66,35;114,9;109,64;118,3;101,78;91,81;138,28
-Região Nordeste;Paraíba;(mil m3);Etanol anidro e hidratado;375,7;447,06;360,23;329,63;431,04;359,03;395,53;362,88;361,86;419,27
-Região Nordeste;Pernambuco;(mil m3);Etanol anidro e hidratado;336,06;442,94;347,87;279,45;465,51;367,96;395,02;320,88;308,74;328,12
-Região Nordeste;Alagoas;(mil m3);Etanol anidro e hidratado;485,25;554,56;366,49;311,88;464,1;503,16;425,89;423,61;384,91;511,68
-Região Nordeste;Sergipe ;(mil m3);Etanol anidro e hidratado;111,54;169,89;76,03;63,74;104,2;101,83;97,16;113;79,11;90,89
-Região Nordeste;Bahia ;(mil m3);Etanol anidro e hidratado;240,29;222,26;126,07;180,77;245,7;249,1;273,55;311,54;334,91;381,81
-Região Sudeste;Minas Gerais;(mil m3);Etanol anidro e hidratado;2.676,28;3.202,92;2.699,43;2.705,40;3.257,60;3.579,21;3.078,21;2.839,28;2.894,95;3.304,70
-Região Sudeste;Espírito Santo ;(mil m3);Etanol anidro e hidratado;162,35;178,73;75,31;90,65;127,57;120,97;89,69;93,02;103,9;88,19
-Região Sudeste;Rio de Janeiro;(mil m3);Etanol anidro e hidratado;88,49;57,6;94,69;53,89;97,26;91,62;137,39;126,34;110,17;82,05
-Região Sudeste;São Paulo ;(mil m3);Etanol anidro e hidratado;13.871,49;13.830,05;14.232,41;13.838,59;16.203,40;16.668,25;14.481,27;12.125,50;11.911,28;13.674,76
-Região Sul;Paraná  ;(mil m3);Etanol anidro e hidratado;1.579,46;1.462,39;1.473,69;1.291,37;1.624,01;1.664,63;1.263,87;1.193,62;1.087,55;1.231,22
-Região Sul;Rio Grande do Sul ;(mil m3);Etanol anidro e hidratado;4,4;3,79;2,91;2,49;2,19;1,64;0,09; -   ;0,01;0,02
-Região Centro-Oeste;Mato Grosso do Sul ;(mil m3);Etanol anidro e hidratado;2.349,74;2.712,33;2.599,94;2.668,06;3.264,48;3.307,20;2.877,25;2.636,70;3.077,47;3.807,75
-Região Centro-Oeste;Mato Grosso ;(mil m3);Etanol anidro e hidratado;1.132,04;1.316,32;1.211,65;1.415,09;1.757,28;2.254,38;3.123,87;3.935,36;4.309,52;5.402,65
-Região Centro-Oeste;Goiás;(mil m3);Etanol anidro e hidratado;4.269,03;4.809,35;4.584,21;4.874,78;4.491,43;5.470,74;5.318,05;4.979,71;5.124,52;5.457,38
+Regiao;Unidades da Federacao;Unidade;Produto;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023
+Regiao Norte;Rondonia;(mil m3);Etanol anidro e hidratado;12,77;12,99;9,06;4,9;1,39;4,85;0,07; - ; - ; - 
+Regiao Norte;Acre;(mil m3);Etanol anidro e hidratado; - ;4,51;3,67; - ; - ; - ; - ; - ; - ; - 
+Regiao Norte;Amazonas;(mil m3);Etanol anidro e hidratado;2,92;5,8;5,5;4,85;5,47;8,82;9,01;6,39;5,9;6,81
+Regiao Norte;Para;(mil m3);Etanol anidro e hidratado;42,15;40,93;33,15;51,62;43,46;61,23;50,34;54,98;52,77;54,13
+Regiao Norte;Tocantins;(mil m3);Etanol anidro e hidratado;180,72;189,81;161,97;176,27;155,22;166,37;174,5;195,01;209,58;192,71
+Regiao Nordeste;Maranhao;(mil m3);Etanol anidro e hidratado;179,15;186,98;128;162,56;147,62;167,74;174,55;164,33;143,11;160,69
+Regiao Nordeste;Piaui;(mil m3);Etanol anidro e hidratado;32,51;32,68;21,61;20,4;37,48;46,46;38,61;44,14;45,03;47,16
+Regiao Nordeste;Ceara;(mil m3);Etanol anidro e hidratado;9,13;14,6;5,24; - ; - ; - ; - ; - ; - ; - 
+Regiao Nordeste;Rio Grande do Norte;(mil m3);Etanol anidro e hidratado;73,24;98,26;75,15;66,35;114,9;109,64;118,3;101,78;91,81;138,28
+Regiao Nordeste;Paraiba;(mil m3);Etanol anidro e hidratado;375,7;447,06;360,23;329,63;431,04;359,03;395,53;362,88;361,86;419,27
+Regiao Nordeste;Pernambuco;(mil m3);Etanol anidro e hidratado;336,06;442,94;347,87;279,45;465,51;367,96;395,02;320,88;308,74;328,12
+Regiao Nordeste;Alagoas;(mil m3);Etanol anidro e hidratado;485,25;554,56;366,49;311,88;464,1;503,16;425,89;423,61;384,91;511,68
+Regiao Nordeste;Sergipe;(mil m3);Etanol anidro e hidratado;111,54;169,89;76,03;63,74;104,2;101,83;97,16;113;79,11;90,89
+Regiao Nordeste;Bahia;(mil m3);Etanol anidro e hidratado;240,29;222,26;126,07;180,77;245,7;249,1;273,55;311,54;334,91;381,81
+Regiao Sudeste;Minas Gerais;(mil m3);Etanol anidro e hidratado;2.676,28;3.202,92;2.699,43;2.705,40;3.257,60;3.579,21;3.078,21;2.839,28;2.894,95;3.304,70
+Regiao Sudeste;Espirito Santo;(mil m3);Etanol anidro e hidratado;162,35;178,73;75,31;90,65;127,57;120,97;89,69;93,02;103,9;88,19
+Regiao Sudeste;Rio de Janeiro;(mil m3);Etanol anidro e hidratado;88,49;57,6;94,69;53,89;97,26;91,62;137,39;126,34;110,17;82,05
+Regiao Sudeste;Sao Paulo;(mil m3);Etanol anidro e hidratado;13.871,49;13.830,05;14.232,41;13.838,59;16.203,40;16.668,25;14.481,27;12.125,50;11.911,28;13.674,76
+Regiao Sul;Parana;(mil m3);Etanol anidro e hidratado;1.579,46;1.462,39;1.473,69;1.291,37;1.624,01;1.664,63;1.263,87;1.193,62;1.087,55;1.231,22
+Regiao Sul;Rio Grande do Sul;(mil m3);Etanol anidro e hidratado;4,4;3,79;2,91;2,49;2,19;1,64;0,09; - ;0,01;0,02
+Regiao Centro-Oeste;Mato Grosso do Sul;(mil m3);Etanol anidro e hidratado;2.349,74;2.712,33;2.599,94;2.668,06;3.264,48;3.307,20;2.877,25;2.636,70;3.077,47;3.807,75
+Regiao Centro-Oeste;Mato Grosso;(mil m3);Etanol anidro e hidratado;1.132,04;1.316,32;1.211,65;1.415,09;1.757,28;2.254,38;3.123,87;3.935,36;4.309,52;5.402,65
+Regiao Centro-Oeste;Goias;(mil m3);Etanol anidro e hidratado;4.269,03;4.809,35;4.584,21;4.874,78;4.491,43;5.470,74;5.318,05;4.979,71;5.124,52;5.457,38
