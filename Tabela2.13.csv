@@ -1,39 +1,27 @@
 Regiao;Unidades da Federacao;Unidade;Produto;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023
-;Amazonas;(milhoes de m3);Gas Natural;4.703,80;5.060,20;5.106,20;4.756,40;5.216,00;5.571,10;4.957,20;4.957,10;5.067,60;5.213,70
-;Amazonas;(milhoes de m3);Gas Natural;;;;;;;;;;
-;Maranhao;(milhoes de m3);Gas Natural;1.968,40;1.565,30;1.926,30;1.617,20;1.410,90;1.395,10;1.350,40;2.141,10;927,8;844,5
-;Maranhao;(milhoes de m3);Gas Natural;;;;;;;;;;
-;Ceara;(milhoes de m3);Gas Natural;0,4;0,4;0,5;0,4;0,3;0,3;0,3;0,3;0,3;0,3
-;Ceara;(milhoes de m3);Gas Natural;32,4;27,1;36,9;30,1;35,4;28,1;5,9; - ; - ; - 
-;Ceara;(milhoes de m3);Gas Natural;;;;;;;;;;
-;Rio Grande do Norte;(milhoes de m3);Gas Natural;269,3;238,4;235;218;206,7;198,6;157,2;186,5;283,8;343,1
-;Rio Grande do Norte;(milhoes de m3);Gas Natural;220,6;188,3;153,8;181,4;144,7;136,2;87,7;58,4;53,2;40,4
-;Rio Grande do Norte;(milhoes de m3);Gas Natural;;;;;;;;;;
-;Alagoas;(milhoes de m3);Gas Natural;460,2;358,4;355,8;334,6;346;301,8;268,6;152;229,1;385,4
-;Alagoas;(milhoes de m3);Gas Natural;75,1;69;62,5;57,1;61,5;12,7;40,9;49,8;44,9;51,2
-;Alagoas;(milhoes de m3);Gas Natural;;;;;;;;;;
-;Sergipe;(milhoes de m3);Gas Natural;97,4;83,2;65,3;50;37,4;40,4;25,5;16,5;8,1;18,2
-;Sergipe;(milhoes de m3);Gas Natural;960,6;780,6;883,9;761,8;753,9;605;147,9;1,7;1;0,9
-;Sergipe;(milhoes de m3);Gas Natural;;;;;;;;;;
-;Bahia;(milhoes de m3);Gas Natural;934,1;997,2;931,2;808,7;764,8;759,1;691,8;807,9;862,3;928,6
-;Bahia;(milhoes de m3);Gas Natural;2.162,60;2.043,60;1.793,10;1.778,60;1.788,20;1.323,60;871,3;1.175,00;926,6;627,4
-;Bahia;(milhoes de m3);Gas Natural;;;;;;;;;;
-;Espirito Santo;(milhoes de m3);Gas Natural;73,9;85,8;80;62,9;31,1;32;27;26,1;20,2;44,3
-;Espirito Santo;(milhoes de m3);Gas Natural;4.675,60;4.028,60;3.814,70;3.958,70;3.431,80;2.639,70;2.276,80;1.971,20;1.223,70;1.481,90
-;Espirito Santo;(milhoes de m3);Gas Natural;;;;;;;;;;
-;Rio de Janeiro;(milhoes de m3);Gas Natural;11.097,40;14.062,00;16.613,10;18.615,10;20.197,60;24.986,20;29.566,60;31.223,30;34.776,50;39.554,00
-;Rio de Janeiro;(milhoes de m3);Gas Natural;;;;;;;;;;
-;Sao Paulo;(milhoes de m3);Gas Natural;4.163,10;5.538,40;5.832,20;6.886,30;6.431,00;6.694,20;6.156,00;6.057,20;5.909,00;5.133,80
-;Sao Paulo;(milhoes de m3);Gas Natural;;;;;;;;;;
-;Parana;(milhoes de m3);Gas Natural; - ; - ; - ; - ; - ; - ; - ; - ;4,1;9,4
-;Parana;(milhoes de m3);Gas Natural;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-; ;;;;;;;;;;;;
+;Amazonas;(mil barris);Petroleo;10.222;9.601;8.561;7.482;7.462;6.814;5.777;5.328;4.900;4.504
+;Amazonas;(mil barris);Petroleo;;;;;;;;;;
+;Maranhao;(mil barris);Petroleo;43;4;14;13;15;20;24;30;14;27
+;Maranhao;(mil barris);Petroleo;;;;;;;;;;
+;Ceara;(mil barris);Petroleo;446;533;567;448;384;316;282;247;223;265
+;Ceara;(mil barris);Petroleo;2.221;1.901;1.928;1.558;1.584;1.539;306; - ; - ; - 
+;Ceara;(mil barris);Petroleo;;;;;;;;;;
+;Rio Grande do Norte;(mil barris);Petroleo;18.347;18.247;18.176;15.205;12.830;12.199;11.723;11.887;11.905;11.753
+;Rio Grande do Norte;(mil barris);Petroleo;2.615;2.594;2.257;2.096;1.870;1.711;970;340;88;66
+;Rio Grande do Norte;(mil barris);Petroleo;;;;;;;;;;
+;Alagoas;(mil barris);Petroleo;1.519;1.556;1.499;1.139;929;967;910;655;857;866
+;Alagoas;(mil barris);Petroleo;115;97;55;50;43;8,313;20;19;25;42
+;Alagoas;(mil barris);Petroleo;;;;;;;;;;
+;Sergipe;(mil barris);Petroleo;10.133;9.171;8.187;6.572;4.853;4.087;3.756;2.822;1.281;2.389
+;Sergipe;(mil barris);Petroleo;4.839;2.992;2.715;1.899;1.776;1.288;716;81;83;62
+;Sergipe;(mil barris);Petroleo;;;;;;;;;;
+;Bahia;(mil barris);Petroleo;15.632;14.190;12.994;11.631;10.586;10.119;9.002;8.069;7.131;5.796
+;Bahia;(mil barris);Petroleo;356;240;281;206;193;144;106;122;93;62
+;Bahia;(mil barris);Petroleo;;;;;;;;;;
+;Espirito Santo;(mil barris);Petroleo;5.235;5.066;4.690;3.891;3.588;3.472;3.256;2.989;2.603;3.071
+;Espirito Santo;(mil barris);Petroleo;128.739;136.581;139.490;133.869;118.721;101.517;87.144;73.891;47.679;58.900
+;Espirito Santo;(mil barris);Petroleo;;;;;;;;;;
+;Rio de Janeiro;(mil barris);Petroleo;563.232;596.924;614.713;650.854;662.818;765.869;853.803;854.662;932.431;1.063.180
+;Rio de Janeiro;(mil barris);Petroleo;;;;;;;;;;
+;Sao Paulo;(mil barris);Petroleo;59.235;89.968;102.605;120.014;116.464;107.460;98.226;99.226;93.538;90.608
+;Sao Paulo;(mil barris);Petroleo;;;;;;;;;;
